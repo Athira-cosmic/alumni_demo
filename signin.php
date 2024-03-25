@@ -193,7 +193,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
                
                
             </div>
-            <form id="contact-form" action="signin.php" method="post" class="contact-input mt-5 position-relative">
+            <form action="signin.php" method="post" class="contact-input mt-5 position-relative">
                <div class="row">
                  
                   <div class="col-xl-12 col-lg-12 col-sm-12 col-12">
